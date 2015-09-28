@@ -4,9 +4,7 @@ logs
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/
-dist/
 *.zip
 
 # Dependency directory
 node_modules/
-libs/bower/
