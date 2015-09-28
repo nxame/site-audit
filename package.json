@@ -1,0 +1,34 @@
+{
+  "name": "cj-audit",
+  "version": "1.0.4",
+  "description": "A JavaScript based utility to perform Web Accessibility and HTML Validation Audit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxame/site-audit.git"
+  },
+  "keywords": [
+    "html",
+    "wcag",
+    "web",
+    "accessiblity",
+    "audit",
+    "validation",
+    "tools"
+  ],
+  "author": "Adrian Noel (@theadriannoel)",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-concat": "^2.6.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "bugs": {
+    "url": "https://github.com/nxame/site-audit/issues"
+  },
+  "homepage": "https://github.com/nxame/site-audit"
+}

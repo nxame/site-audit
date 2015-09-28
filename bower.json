@@ -1,0 +1,21 @@
+{
+  "name": "cj-audit",
+  "version": "1.0.4",
+  "description": "A JavaScript based utility to perform Web Accessibility and HTML Validation Audit.",
+  "main": "index.js",
+  "private": true,
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "libs/bower",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  }
+}
